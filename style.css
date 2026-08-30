@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px
+}
+
+body {
+  background: linear-gradient(
+    to bottom,
+    #d62828 0%,   /* vermelho do navbar */
+    #e63946 25%,  /* vermelho médio para suavizar */
+    #ffb703 60%,  /* amarelo/dourado */
+    #ffffff 80%,  /* branco para transição */
+    #0077b6 100%  /* azul forte no final */
+  );
+  min-height: 100vh;
+}
